@@ -5,10 +5,10 @@
 
 * Original design by Andreas [here](https://www.flickr.com/photos/cc-7576/6748547019/).
 
-Part count:
-Total time*: 22.5hrs.
+Part count: 464
+Project time: 22.5hrs.
 
-*Includes digital design, part ordering, building, photographing, and sharing.
+(Project time includes all related activities: digital design, part ordering, building, photographing, and sharing)
 
 ### Using Stud.io for the first time
 This was my first project done using BrickLink's new Stud.io editor instead of LDD. The added features in Stud.io are just amazing!
@@ -32,9 +32,12 @@ As I built it (using whatever colored pieces I could find), I would add parts to
 By the time I was done, I had a pretty thorough list of the parts I needed. This let me rely on BrickLink's new shopping wizard to automatically find a good combination of stores to buy everything on my list.
 
 ### Build notes / TODOs
+
 *Side Hatches*
+
 Right now, the light gray side panels are actually attached with hinges, with the intention being that you could open them to reveal some circuitry or what have you. But the panels bump into the wings, so they won't actually open! I'd like to play with the design some more to see if I can't remedy that.
 
 *Cockpit Gap*
+
 I'm not 100% happy with the gap between the cockpit and the main fuselage. I could probably make some tweaks to better hide that space.
 

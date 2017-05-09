@@ -1,6 +1,6 @@
-Storm's Edge Stand
+# Storm's Edge Stand
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/129594216@N04/34504798866/" title="Storm&#x27;s Edge Stand"><img src="https://c1.staticflickr.com/5/4191/34504798866_b57cf1bb79.jpg" width="500" height="375" alt="Storm&#x27;s Edge Stand"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/129594216@N04/34504798866/" title="Storm&#x27;s Edge Stand"><img src="https://c1.staticflickr.com/5/4191/34504798866_b57cf1bb79.jpg" width="500" height="375" alt="Storm&#x27;s Edge Stand"></a>
 
 I've finished an initial revision of the stand Nick Trotta built for [Storm's Edge](https://www.flickr.com/photos/tardisblue/25905450946/). 
 

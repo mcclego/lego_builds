@@ -1,4 +1,2 @@
-9:47a - 10:30a -- Working on thighs and leg rockets
-11:48a - 
+[Seryye Volki by Benjamin Cheh](https://www.flickr.com/photos/benjamin_cheh_creations_bcc/24143177223/)
 
-12:32 PM - 1:00 PM - Angling  the legs
